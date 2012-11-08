@@ -1,11 +1,6 @@
 PHP v5.2.12 :: WordPress® v3.4.2 :: s2Member® v120703 :: s2Member® Pro v120703
 Mehttps://github.com/haritbrain/test.gittify=1&s2member_paypal_proxy=paypal&s2member_paypal_proxy_use=pro-emails&s2member_paypal_proxy_verification=7ebce8b70df6a742e24526314b086560&s2member_paypal_proxy_return_url=
-User-Agent: WordPress/3.4.2; http://csclub.rainconcert.in
-array (
-  'txn_type' => 'web_accept',
-  'txn_id' => '8DC89521LW599103H',
-  'custom' => 'csclub.rainconcert.in',
-  'mc_gross' => '60.00',
+User-Agent: Wo
   'mc_currency' => 'USD',
   'tax' => '0.00',
   'payer_email' => 'sumya@gmail2.com',
